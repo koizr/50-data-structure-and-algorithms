@@ -1,0 +1,23 @@
+{
+  "name": "50-data-structure-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koizumin/50-data-structure-and-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koizumin/50-data-structure-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/koizumin/50-data-structure-and-algorithms#readme"
+}
